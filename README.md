@@ -62,6 +62,7 @@ TABULAR COLUMN
 Rectifier with filter
 
 
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5e93352-898a-4847-ab9f-e6aee21d9c3c" />
 
 
@@ -91,13 +92,11 @@ WAVEFORM:
 
 Full wave Rectifier
 
-
 <img width="620" height="390" alt="image" src="https://github.com/user-attachments/assets/79ecbc2e-25ca-4696-8c81-5c1b17ad5545" />
 
 
 
 Half Wave Rectifier
-
 
 <img width="621" height="389" alt="image" src="https://github.com/user-attachments/assets/0290b4b9-0c7d-4d7a-b9e2-4f29233fcd34" />
 
